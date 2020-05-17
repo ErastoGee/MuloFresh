@@ -1,0 +1,100 @@
+
+* {
+    box-sizing: border-box;
+    font-family: Raleway;
+    color: #777;
+}
+
+html, body {
+    margin-top: 0;
+    padding: 2rem;
+    min-height: 100%;
+}
+
+.main-header {
+	margin-bottom: 30px;
+    background-color: #999900;
+    background-blend-mode: lighten; ;
+    position: sticky;
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
+    top: 0;
+    z-index: 1000;
+}
+
+.formhead{
+    text-align: center;
+    color: #999900;;
+
+}
+
+.needs-validation{
+    margin-bottom: 50px;
+}
+
+
+.band-name {
+    text-align: center;
+    margin: 0;
+    font-size: 4rem;
+    font-family: "Booter - Zero Zero";
+    font-weight: normal;
+    color: white;
+}
+
+.band-name-large {
+    font-size: 4rem;
+}
+
+.landingfoot
+{
+    background: rgb(3, 136, 47);
+    height: auto; 
+    font-size: 15px;
+}
+
+.flinks li
+{
+    color: rgb(155, 175, 192);
+    list-style: none;
+    text-align: left;
+}
+
+.flinks li a
+{
+    color: aliceblue;
+}
+
+
+.flinks li:hover
+{
+    opacity: .3;
+}
+
+.linkh
+{
+    color: white;
+  
+}
+
+.designed
+{
+    color: rgb(0, 246, 62);
+    
+}
+
+.bgf{
+
+    background-color: #999900;
+    color: aliceblue;
+}
+
+.copy
+{
+   
+}
+
+p{
+    color: aliceblue;
+}
